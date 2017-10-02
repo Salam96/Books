@@ -1,0 +1,36 @@
+.imageContainer {
+                  border: 1px pink solid;
+
+                  width: 200px;
+                  height: 360px;
+                  margin: 1em;
+                  display: inline-block;
+                  overflow: hidden;
+            }
+.imageHolder {
+                   border: 1px red dotted;
+
+                   height:70%;
+                   display:flex;
+                   align-item: center;
+            }
+.imagebuttons{
+                     height:20%;
+                }
+.imageItself {                 
+                  width: 100%;
+                  align-self: center;
+                }
+                img{height: -webkit-fill-available;}
+.buttons{
+                  display: inline-flex;x;
+                }
+.title{
+                  height:50px;
+                }
+.cols{
+                  height:300px;
+                  width: 400px;
+                  display: inline-block;
+                  margin: 1em;
+                }
